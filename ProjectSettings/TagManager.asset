@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NPC
+  - Interactable
+  - Item
+  - Interactable Item
+  - Guard
+  - Civilian
+  - Lord
+  - Combatant
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Bed Collider
+  - Roof Collider
+  - Pathfinder Blocker
+  - Interactable Item
+  - Interactable
+  - Movement Blocker
+  - Movement Collider
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 48099445
+    locked: 0
+  - name: Collisions
+    uniqueID: 2482807969
+    locked: 0
+  - name: Underpass
+    uniqueID: 3871744059
+    locked: 0
+  - name: Ground VFX
+    uniqueID: 1163035273
+    locked: 0
+  - name: Characters
+    uniqueID: 3010244985
+    locked: 0
+  - name: Overpass
+    uniqueID: 3573134835
+    locked: 0
+  - name: Roof
+    uniqueID: 1977170611
+    locked: 0
+  - name: Front VFX
+    uniqueID: 3729103975
+    locked: 0
+  - name: UI
+    uniqueID: 1941481195
+    locked: 0

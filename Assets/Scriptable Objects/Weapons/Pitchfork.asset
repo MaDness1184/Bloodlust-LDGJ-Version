@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43deffd9a7626dc45b2fb62390b41433, type: 3}
+  m_Name: Pitchfork
+  m_EditorClassIdentifier: 
+  weaponName: Pitchfork
+  damage: 1
+  range: 2.2
+  attackCdr: 0.8
+  gameObject: {fileID: 1843595574405355621, guid: eb80d1493ffe3e141bb81c090b9e771c, type: 3}
